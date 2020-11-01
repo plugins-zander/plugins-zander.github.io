@@ -12,6 +12,8 @@
 |              | [markdown](https://tool.zlogs.net/table/markdown)   | https://tool.zlogs.net/table/markdown  |
 |              | [mediawiki](https://tool.zlogs.net/table/mediawiki) | https://tool.zlogs.net/table/mediawiki |
 |              |                                                    |                                       |
+| 在线模拟   |          [float](https://tool.zlogs.net/sim/float)      |   https://tool.zlogs.net/sim/float    |
+|              |                                                    |                                       |
 | 在线数学公式 | [LaTeX](https://tool.zlogs.net/math/latex)         | https://tool.zlogs.net/math/latex     |
 |              |                                                    |                                       |
 | 在线各种编码 | [Encode](https://tool.zlogs.net/encode)            | https://tool.zlogs.net/encode         |
