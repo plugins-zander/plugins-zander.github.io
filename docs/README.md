@@ -18,6 +18,7 @@
 |              |                                                    |                                       |
 | 在线各种编码 | [Encode](https://tool.zlogs.net/encode)            | https://tool.zlogs.net/encode         |
 |              |                                                    |                                       |
-| 在线图床     | [imgs](https://imgs.zlogs.net)                     | 自用                                  |
+| 在线图床     | [imgs](https://upload-img.zlogs.net)                     | https://upload-img.zlogs.net        |
 |              |                                                    |                                       |
-
+| 云盘     | [dir](https://dir.zlogs.net)                     | https://dir.zlogs.net     |
+|              |                                                    |                                       |
